@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-template/static/css/main.dda1f5cd.css",
+    "main.js": "/my-template/static/js/main.bd2d2ac2.js",
+    "static/js/453.7a8d5212.chunk.js": "/my-template/static/js/453.7a8d5212.chunk.js",
+    "static/media/bg2.jpg": "/my-template/static/media/bg2.50a0eb844047d74b4b43.jpg",
+    "static/media/bg.jpg": "/my-template/static/media/bg.5817e5f324340c5a2457.jpg",
+    "static/media/Mission.jpg": "/my-template/static/media/Mission.235db2f17d2cb9839744.jpg",
+    "static/media/background.jpg": "/my-template/static/media/background.931adee6dd02c4f4e293.jpg",
+    "static/media/Vision.jpg": "/my-template/static/media/Vision.358e413da658e5e6385a.jpg",
+    "static/media/chef.png": "/my-template/static/media/chef.b3ff6ccd3425a3b34524.png",
+    "static/media/driver.png": "/my-template/static/media/driver.1cb23d35cea967e6d746.png",
+    "static/media/worker.png": "/my-template/static/media/worker.38bf825c3a3de8e8868f.png",
+    "static/media/logo.png": "/my-template/static/media/logo.4daedb14374bcbfa14b0.png",
+    "index.html": "/my-template/index.html",
+    "main.dda1f5cd.css.map": "/my-template/static/css/main.dda1f5cd.css.map",
+    "main.bd2d2ac2.js.map": "/my-template/static/js/main.bd2d2ac2.js.map",
+    "453.7a8d5212.chunk.js.map": "/my-template/static/js/453.7a8d5212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dda1f5cd.css",
+    "static/js/main.bd2d2ac2.js"
+  ]
+}
